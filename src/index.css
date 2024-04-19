@@ -68,6 +68,9 @@ button {
 
 @media screen and (max-width: 575px) {
   h1 {
-    font-size: 1.5em;
+    font-size: 1.8em;
+  }
+  .logo {
+    padding: 0px;
   }
 }
