@@ -65,3 +65,9 @@ button {
     background-color: #f9f9f9;
   }
 }
+
+@media screen and (max-width: 575px) {
+  h1 {
+    font-size: 1.5em;
+  }
+}
